@@ -1,0 +1,2 @@
+# thesocialu.com
+Static website
