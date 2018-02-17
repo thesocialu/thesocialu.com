@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<p align="center">
+  <img src="https://image.ibb.co/c4LALn/logo2_1.png">
+</p>
 
-You can use the [editor on GitHub](https://github.com/thesocialu/thesocialu.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thesocialu/thesocialu.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p text-align="left">
+Thanks to all of you who have followed and supported The Social U. We are grateful to have had the opportunity to impact many thousands of young adults as they plan for college and careers. We hope that even though The Social U tool is no longer available, you will continue to be mindful of how you appear on social media, and make good choices in both your personal and digital life.
+</p>
+ 
+<p text-align="left">
+If you have questions or inquiries about The Social U, its technology, or are looking for private consulting services, please email us at support@thesocialu.com and we will get back to you promptly.
+</p>
+ 
+<p text-align="left">
+Warmest Wishes,
+</p>
+ 
+<p text-align="left">
+The Social U Team
+</p>
