@@ -3,7 +3,7 @@
 </p>
 
 <p text-align="left">
-Thanks to all of you who have followed and supported The Social U. We are grateful to have had the opportunity to impact many thousands of young adults as they plan for college and careers. We hope that even though The Social U tool is no longer available, you will continue to be mindful of how you appear on social media, and make good choices in both your personal and digital life.
+Thanks to all of you who have followed and supported The Social U. We are grateful to have had the opportunity to impact many thousands of young adults as they plan for college and careers. 
 </p>
  
 <p text-align="left">
